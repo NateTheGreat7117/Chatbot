@@ -1,2 +1,2 @@
 # Chatbot
-A chatbot that can control my computer using a pretrained model called PygmalionAI.
+A chatbot that can control my computer using a pre-trained model loaded from hugging face. The model is trained on a dataset that I made that aims to mimic the classic Jarvis from Iron Man AI assistant. To enter commands, the chatbot outputs things like "/udate" or "/uwindspeed" and either the keywords are replaced with data loaded from python modules, or it executes a command on my computer. 
